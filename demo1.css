@@ -1,0 +1,89 @@
+body,div,a,p,img {
+	margin: 0;
+	padding: 0;
+}
+
+#all{
+	margin: 10px auto;
+	width: 990px;
+	position: relative;
+}
+
+#all #all2 #d1{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	display: none;
+}
+
+#all #all2 #d2{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	display: none;
+}
+
+#all #all3 #pannel,#all #all3 #slideDown,#all #all3 #slideToggle{
+	width: 300px;
+	text-align: center;
+	background-color: #E5EECC;
+	border: 1px solid #c3c3c3;
+}
+
+#all #all3 #pannel{
+	display: none;
+}
+
+#all #all4{
+	margin-top: 10px;
+}
+
+#all #all4 #animate{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+
+#all #all5{
+	margin-top: 10px;
+}
+
+#all #all5 #animateFont{
+	width: 80px;
+	height: 20px;
+	background-color: gray;
+}
+
+#all #all6 #chaining{
+	width: 100px;
+	height: 50px;
+	font-size: 15px;
+	color:blue;
+	background-color: gray;
+}
+
+#all #all7{
+	margin-top: 10px;
+}
+
+#all #all9{
+	margin-top: 10px;
+}
+
+#all #all9 #area{
+	width:100px;
+	height: 100px;
+	background-color: yellow;
+}
+
+.para1{
+	font-size: 20px;
+	font-weight: bolder;
+	color: blue;
+}
+
+#all #all10 #change{
+	width:100px;
+	height: 100px;
+	background-color: yellow;
+}
